@@ -1,0 +1,506 @@
+### 新西兰技术职业列表中partA对职业要求  - FLYabroad ###
+
+新西兰技术职业列表（LSO - List of Skilled Occupations)中，属于partA的职业，要求主申请人的工作offer或当前的工作，必须持续的满足ANZSCO对此职业的要求，并且满足下列要求： The occupation is included in part A of the List of Skilled Occupations held at Appendix 6 and the principal applicant can demonstrate that their offer of employment or current employment substantially matches the description for that occupation (including core tasks) as set out in the ANZSCO and:
+
+- 申请人持有与NZQF水平相同或高于其的，相关的认可的、符合ANZSOC中对此职业的技能水平要求的资质； the applicant holds a relevant recognised qualification which is at, or above, the qualification level on the NZQF (see SM14.5) that corresponds to the indicative skill level described for that occupation in the ANZSCO; or
+
+- 申请人拥有相关的认可的工作经验， 此工作经验是由ANZSCO认可的可代替必要的资质的经验； the applicant has the relevant recognised work experience that the ANZSCO indicates may substitute the required qualification; or
+
+- 申请人的工作在长期紧缺职业列表中（LTSSL - Long Term Skill Shortage List），并且满足列表中第三列对申请人的要求； the employment is in an occupation included on the Long Term Skill Shortage List and the applicant meets the relevant requirements specified in column three of the Long Term Skill Shortage List for that occupation; or
+
+
+- 如果申请人所申请人的职业要求注册，那么申请人必须持有正式的或临时的注册； the employment is in an occupation that requires New Zealand registration by law to be undertaken and is included at SM19.5 and the applicant holds evidence of full or provisional registration in that occupation in New Zealand.
+
+
+- 如果申请人的职业属于技能水平为1的职业，那么可以用5年的相关工作经验代替资质要求。 notwithstanding (a) (ii), applicants with Skill Level One Occupations can substitute the required qualification with five years of relevant work experience.
+
+### 新西兰技术职业列表中partA所包含的职业列表  - FLYabroad ###
+
+- [111111](111111) 首席执行官或常务董事 Chief Executive or Managing Director
+- [111211](111211) 公司总经理 Corporate General Manager
+- [111212](111212) 国防军高级官员 Defence Force Senior Officer
+- [111311](111311) 地方政府立法者 Local Government Legislator
+- [111312](111312) 国会议员 Member of Parliament
+- [111399](111399) 其他未分类立法者 Legislators nec
+- [121111](121111) 水产养殖农民 Aquaculture Farmer
+- [121211](121211) 棉农 Cotton Grower
+- [121212](121212) 花农 Flower Grower
+- [121213](121213) 水果或坚果种植者 Fruit or Nut Grower
+- [121214](121214) 谷物，油籽草种植者（澳洲） /大田作物种植者（新西兰） Field Crop Grower
+- [121215](121215) 葡萄种植者 Grape Grower
+- [121216](121216) 混合作物农民 Mixed Crop Farmer
+- [121217](121217) 甘蔗种植者 Sugar Cane Grower
+- [121218](121218) 草坪种植者 Turf Grower
+- [121221](121221) 市场园丁 Market Gardener
+- [121299](121299) 未分类的弄作物农民 Crop Farmers nec
+- [121311](121311) 养蜂家 Apiarist
+- [121312](121312) 肉牛农民 Beef Cattle Farmer
+- [121313](121313) 奶牛农民 Dairy Cattle Farmer
+- [121314](121314) 鹿养殖农民 Deer Farmer
+- [121315](121315) 山羊饲养员 Goat Farmer
+- [121316](121316) 马饲养员 Horse Breeder
+- [121317](121317) 混合型畜牧业农民 Mixed Livestock Farmer
+- [121318](121318) 养猪农民 Pig Farmer
+- [121321](121321) 家禽饲养员 Poultry Farmer
+- [121322](121322) 绵羊饲养员 Sheep Farmer
+- [121399](121399) 未分类畜牧业农民 Livestock Farmers nec
+- [121411](121411) 混合作物和牲畜农民 Mixed Crop and Livestock Farmer
+- [131112](131112) 销售和市场营销经理 Sales and Marketing Manager
+- [131113](131113) 广告管理 Advertising Manager
+- [131114](131114) 公共关系经理 Public Relations Manager
+- [132111](132111) 企业服务经理 Corporate Services Manager
+- [132211](132211) 财务经理 Finance Manager
+- [132311](132311) 人力资源经理 Human Resource Manager
+- [132411](132411) 政策和规划经理 Policy and Planning Manager
+- [132511](132511) 研发经理 Research and Development Manager
+- [133111](133111) 施工项目经理 Construction Project Manager
+- [133112](133112) 项目建造师 Project Builder
+- [133211](133211) 工程经理 Engineering Manager
+- [133311](133311) 进口商或出口商 Importer or Exporter
+- [133312](133312) 批发商 Wholesaler
+- [133411](133411) 制造商 Manufacturer
+- [133511](133511) 生产经理（林业） Production Manager (Forestry)
+- [133512](133512) 生产经理（制造业） Production Manager (Manufacturing)
+- [133513](133513) 生产经理（采矿） Production Manager (Mining)
+- [133611](133611) 采购供应及分销经理 Supply and Distribution Manager
+- [134111](134111) 托儿所经理 Child Care Centre Manager
+- [134211](134211) 医疗主管 Medical Superintendent
+- [134212](134212) 护理临床主任 Nursing Clinical Director
+- [134213](134213) 初级卫生机构管理者 Primary Health Organisation Manager
+- [134214](134214) 福利中心经理 Welfare Centre Manager
+- [134299](134299) 卫生和福利服务经理NEC Health and Welfare Services Managers nec
+- [134311](134311) 校长 School Principal
+- [134411](134411) 系主任 Faculty Head
+- [134412](134412) 区域教育经理 Regional Education Manager
+- [134499](134499) 其他未分类教育管理者 Education Managers nec
+- [135111](135111) 首席信息官 Chief Information Officer
+- [135112](135112) 信息和通信技术项目经理 ICT Project Manager
+- [135199](135199) 信息和通信技术经理NEC ICT Managers nec
+- [139111](139111) 现役国防军官 Commissioned Defence Force Officer
+- [139112](139112) 现役消防官 Commissioned Fire Officer
+- [139113](139113) 现役警察 Commissioned Police Officer
+- [139211](139211) 高级非现役国防军会员 Senior Non-commissioned Defence Force Member
+- [139911](139911) 艺术管理者或经理 Arts Administrator or Manager
+- [139912](139912) 环境经理 Environmental Manager
+- [139913](139913) 实验室经理 Laboratory Manager
+- [139914](139914) 质量保证经理 Quality Assurance Manager
+- [139915](139915) 体育管理员 Sports Administrator
+- [139999](139999) 未分类的专业经理人  Specialist Managers nec
+- [141111](141111) 咖啡馆或餐厅经理 Cafe or Restaurant Manager
+- [141211](141211) 露营公园和露营地经理 Caravan Park and Camping Ground Manager
+- [141311](141311) 酒店或汽车旅馆经理 Hotel or Motel Manager
+- [141411](141411) 持牌俱乐部经理 Licensed Club Manager
+- [141911](141911) 住宿加早餐管理人 Bed and Breakfast Operator
+- [141912](141912) 退休村经理 Retirement Village Manager
+- [141999](141999) 住宿和接待经理NEC Accommodation and Hospitality Managers nec
+- [142111](142111) 零售经理(一般） Retail Manager (General)
+- [142112](142112) 古董商 Antique Dealer
+- [142113](142113) 投注代理处经理 Betting Agency Manager
+- [142114](142114) 美发或美容院经理 Hair or Beauty Salon Manager
+- [142115](142115) 邮局经理 Post Office Manager
+- [142116](142116) 旅行社经理 Travel Agency Manager
+- [149111](149111) 娱乐中心经理 Amusement Centre Manager
+- [149112](149112) 健身中心经理 Fitness Centre Manager
+- [149113](149113) 体育中心经理 Sports Centre Manager
+- [149211](149211) 呼叫或联系中心经理 Call or Contact Centre Manager
+- [149212](149212) 客户服务经理 Customer Service Manager
+- [149311](149311) 会议和活动组织者 Conference and Event Organiser
+- [149411](149411) 车队经理 Fleet Manager
+- [149412](149412) 火车站经理 Railway Station Manager
+- [149413](149413) 运输公司经理 Transport Company Manager
+- [149911](149911) 宠物旅馆管理人 Boarding Kennel or Cattery Operator
+- [149912](149912) 电影院或剧院经理 Cinema or Theatre Manager
+- [149913](149913) 设施经理 Facilities Manager
+- [149914](149914) 金融机构分公司经理 Financial Institution Branch Manager
+- [149915](149915) 设备租赁经理 Equipment Hire Manager
+- [149999](149999) 酒店、零售和服务经理 Hospitality, Retail and Service Managers nec
+- [211111](211111) 演员 Actor
+- [211112](211112) 舞蹈演员及编舞 Dancer or Choreographer
+- [211113](211113) 艺人或综艺艺术家 Entertainer or Variety Artist
+- [211199](211199) 演员，舞蹈家和其他艺人NEC Actors, Dancers and Other Entertainers nec
+- [211211](211211) 作曲家 Composer
+- [211212](211212) 音乐总监 Music Director
+- [211213](211213) 音乐家（器乐） Musician (Instrumental)
+- [211214](211214) 歌手 Singer
+- [211299](211299) 专业音乐人 Music Professionals nec
+- [211311](211311) 摄影师 Photographer
+- [211411](211411) 画家（视觉艺术） Painter (Visual Arts)
+- [211412](211412) 陶艺或陶瓷艺术家 Potter or Ceramic Artist
+- [211413](211413) 雕塑家 Sculptor
+- [211499](211499) 其他未被划分的视觉艺术和手工艺品专业人员 Visual Arts and Crafts Professionals nec
+- [212111](212111) 艺术总监 Artistic Director
+- [212112](212112) 媒体制作人（不含视频） Media Producer (excluding Video)
+- [212113](212113) 电台主持人 Radio Presenter
+- [212114](212114) 电视主持人 Television Presenter
+- [212211](212211) 作家 Author
+- [212212](212212) 图书或剧本编辑 Book or Script Editor
+- [212311](212311) 艺术总监（电影，电视或舞台） Art Director (Film, Television or Stage)
+- [212312](212312) 总监（电影，电视，广播或舞台） Director (Film, Television, Radio or Stage)
+- [212313](212313) 摄影指导 Director of Photography
+- [212314](212314) 电影和视频编辑 Film and Video Editor
+- [212315](212315) 项目总监（电视或电台） Program Director (Television or Radio)
+- [212316](212316) 剧务 Stage Manager
+- [212317](212317) 技术总监 Technical Director
+- [212318](212318) 视频制作人 Video Producer
+- [212399](212399) 电影，电视，广播和舞台总监 Film, Television, Radio and Stage Directors nec
+- [212411](212411) 文案 Copywriter
+- [212412](212412) 报纸或期刊编辑 Newspaper or Periodical Editor
+- [212413](212413) 报刊杂志记者 Print Journalist
+- [212414](212414) 电台记者 Radio Journalist
+- [212415](212415) 技术文档撰写人 Technical Writer
+- [212416](212416) 电视记者 Television Journalist
+- [212499](212499) 记者和其他作家NEC Journalists and Other Writers nec
+- [221111](221111) 总会计师（普通） Accountant (General)
+- [221112](221112) 管理会计师 Management Accountant
+- [221113](221113) 税务会计师 Taxation Accountant
+- [221211](221211) 公司秘书 Company Secretary
+- [221212](221212) 企业财务 Corporate Treasurer
+- [221213](221213) 外审 External Auditor
+- [221214](221214) 内审 Internal Auditor
+- [222111](222111) 大宗商品交易商 Commodities Trader
+- [222112](222112) 金融经纪人 Finance Broker
+- [222113](222113) 保险经纪人 Insurance Broker
+- [222199](222199) 其他未分类金融经纪人 Financial Brokers nec
+- [222211](222211) 金融市场经销商 Financial Market Dealer
+- [222212](222212) 期货操盘手 Futures Trader
+- [222213](222213) 证券经纪交易商 Stockbroking Dealer
+- [222299](222299) 其他未分类金融交易商  Financial Dealers nec
+- [222311](222311) 金融投资顾问 Financial Investment Adviser
+- [222312](222312) 金融投资经理 Financial Investment Manager
+- [223111](223111) 人力资源顾问 Human Resource Adviser
+- [223112](223112) 招聘顾问 Recruitment Consultant
+- [223113](223113) 劳资关系顾问 Workplace Relations Adviser
+- [223211](223211) ICT培训师 ICT Trainer
+- [223311](223311) 培训和开发专员 Training and Development Professional
+- [224111](224111) 精算师 Actuary
+- [224112](224112) 数学家 Mathematician
+- [224113](224113) 统计学家 Statistician
+- [224211](224211) 档案保管员 Archivist
+- [224212](224212) 画廊或博物馆馆长 Gallery or Museum Curator
+- [224213](224213) 卫生信息管理员 Health Information Manager
+- [224214](224214) 记录管理员 Records Manager
+- [224311](224311) 经济学家 Economist
+- [224411](224411) 情报官 Intelligence Officer
+- [224412](224412) 政策分析师 Policy Analyst
+- [224511](224511) 土地经济学家 Land Economist
+- [224512](224512) 估价师 Valuer
+- [224611](224611) 图书管理员 Librarian
+- [224711](224711) 管理顾问 Management Consultant
+- [224712](224712) 组织和方法分析师 Organisation and Methods Analyst
+- [224911](224911) 选民主任 Electorate Officer
+- [224912](224912) 联络官 Liaison Officer
+- [224913](224913) 移民顾问 Immigration Consultant
+- [224914](224914) 专利审查员 Patents Examiner
+- [224999](224999) 信息和组织专业人员NEC Information and Organisation Professionals nec
+- [225111](225111) 广告专员 Advertising Specialist
+- [225112](225112) 市场研究分析师 Market Research Analyst
+- [225113](225113) 市场营销专员 Marketing Specialist
+- [225211](225211) ICT客户经理 ICT Account Manager
+- [225212](225212) 信息和通信技术业务发展经理 ICT Business Development Manager
+- [225213](225213) 信息和通信技术销售代表 ICT Sales Representative
+- [225311](225311) 公共关系专员 Public Relations Professional
+- [225411](225411) 销售代表（工业产品） Sales Representative (Industrial Products)
+- [225412](225412) 销售代表（医药品） Sales Representative (Medical and Pharmaceutical Products)
+- [225499](225499) 其他未分类技术销售代表 Technical Sales Representatives nec
+- [231111](231111) 飞机飞行员 Aeroplane Pilot
+- [231112](231112) 空中交通管制员 Air Traffic Controller
+- [231113](231113) 飞行教练 Flying Instructor
+- [231114](231114) 直升机飞行员 Helicopter Pilot
+- [231199](231199) 航空运输专业人员NEC Air Transport Professionals nec
+- [231211](231211) 渔船船长 Master Fisher
+- [231212](231212) 船舶工程师 Ship's Engineer
+- [231213](231213) 船长 Ship's Master
+- [231214](231214) 船舶主任 Ship's Officer
+- [231215](231215) 船舶检验员 Ship's Surveyor
+- [231299](231299) 海洋运输专业人员 Marine Transport Professionals nec
+- [232111](232111) 建筑师 Architect
+- [232112](232112) 景观设计师 Landscape Architect
+- [232212](232212) 测量员 Surveyor
+- [232213](232213) 制图师 Cartographer
+- [232214](232214) 其他空间科学家 Spatial Scientist (Other)
+- [232311](232311) 时装设计师 Fashion Designer
+- [232312](232312) 工业设计师 Industrial Designer
+- [232313](232313) 珠宝设计师 Jewellery Designer
+- [232411](232411) 平面设计师 Graphic Designer
+- [232412](232412) 插图画家 Illustrator
+- [232413](232413) 多媒体设计师 Multimedia Designer
+- [232414](232414) 网页设计师 Web Designer
+- [232511](232511) 室内设计师 Interior Designer
+- [232611](232611) 城市和区域规划师 Urban and Regional Planner
+- [233111](233111) 化学工程师 Chemical Engineer
+- [233112](233112) 材料工程师 Materials Engineer
+- [233211](233211) 土木工程师 Civil Engineer
+- [233212](233212) 岩土工程师 Geotechnical Engineer
+- [233213](233213) 工料测量师 Quantity Surveyor
+- [233214](233214) 结构工程师 Structural Engineer
+- [233215](233215) 交通工程师 Transport Engineer
+- [233311](233311) 电气工程师 Electrical Engineer
+- [233411](233411) 电子工程师 Electronics Engineer
+- [233511](233511) 工业工程师 Industrial Engineer
+- [233512](233512) 机械工程师 Mechanical Engineer
+- [233513](233513) 生产或工厂工程师 Production or Plant Engineer
+- [233611](233611) 采矿工程师（不包括石油） Mining Engineer (excluding Petroleum)
+- [233612](233612) 石油工程师 Petroleum Engineer
+- [233911](233911) 航空工程师 Aeronautical Engineer
+- [233912](233912) 农业工程师 Agricultural Engineer
+- [233913](233913) 生物医学工程师 Biomedical Engineer
+- [233914](233914) 工程技师 Engineering Technologist
+- [233915](233915) 环境工程师 Environmental Engineer
+- [233916](233916) 海军设计师 Marine Designer
+- [233999](233999) 其他工程专业人员 Engineering Professionals nec
+- [234111](234111) 农业顾问 Agricultural Consultant
+- [234112](234112) 农业科学家 Agricultural Scientist
+- [234113](234113) 护林科学家 Forest Scientist
+- [234211](234211) 化学家 Chemist
+- [234212](234212) 食品工艺师 Food Technologist
+- [234213](234213) 酿酒师 Wine Maker
+- [234311](234311) 自然保护官员 Conservation Officer
+- [234312](234312) 环境顾问 Environmental Consultant
+- [234313](234313) 环境研究科学家 Environmental Research Scientist
+- [234314](234314) 护林员 Park Ranger
+- [234399](234399) 其他环境科学家 Environmental Scientists nec
+- [234411](234411) 地质学家 Geologist
+- [234412](234412) 地球物理学家 Geophysicist
+- [234511](234511) 生命科学家（普通） Life Scientist (General)
+- [234512](234512) 解剖学家或生理学家 Anatomist or Physiologist
+- [234513](234513) 生物化学家 Biochemist
+- [234514](234514) 生物技术专家 Biotechnologist
+- [234515](234515) 植物学家 Botanist
+- [234516](234516) 海洋生物学家 Marine Biologist
+- [234517](234517) 微生物学家 Microbiologist
+- [234518](234518) 动物学家 Zoologist
+- [234599](234599) 其他生命科学家 Life Scientists nec
+- [234611](234611) 医学实验室科学家 Medical Laboratory Scientist
+- [234711](234711) 兽医 Veterinarian
+- [234911](234911) 自然保护者 Conservator
+- [234912](234912) 冶金学家 Metallurgist
+- [234913](234913) 气象学家 Meteorologist
+- [234914](234914) 物理学家 Physicist
+- [234999](234999) 其他自然和物理科学专业人员 Natural and Physical Science Professionals nec
+- [241111](241111) 幼儿教育（学前教育）教师 Early Childhood (Pre-primary School) Teacher
+- [241112](241112) 毛利语老师 Kaiako Kohanga Reo (Maori Language Nest Teacher)
+- [241211](241211) 毛利人小学教师 Kaiako Kura Kaupapa Maori (Maori-medium Primary School Teacher)
+- [241212](241212) 毛利人小学高级教师 Pouako Kura Kaupapa Maori (Maori-medium Primary School Senior Teacher)
+- [241213](241213) 小学教师 Primary School Teacher
+- [241311](241311) 中级学校教师 Intermediate School Teacher
+- [241411](241411) 中学教师 Secondary School Teacher
+- [241511](241511) 特殊需求教师 Special Needs Teacher
+- [241512](241512) 听障教师 Teacher of the Hearing Impaired
+- [241513](241513) 视障教师 Teacher of the Sight Impaired
+- [241599](241599) 特殊教育教师NEC Special Education Teachers nec
+- [242111](242111) 大学讲师 University Lecturer
+- [242112](242112) 大学导师 University Tutor
+- [242211](242211) 职业教育教师 Polytechnic Teacher
+- [249111](249111) 教育顾问 Education Adviser
+- [249112](249112) 教育评论家 Education Reviewer
+- [249211](249211) 美术教师（补习） Art Teacher (Private Tuition)
+- [249212](249212) 舞蹈老师（补习） Dance Teacher (Private Tuition)
+- [249213](249213) 戏剧老师（补习） Drama Teacher (Private Tuition)
+- [249214](249214) 音乐教师（补习） Music Teacher (Private Tuition)
+- [249299](249299) 私人导师和教师 Private Tutors and Teachers nec
+- [249311](249311) 讲其他语言的学生英语教师 Teacher of English to Speakers of Other Languages
+- [251111](251111) 营养师 Dietitian
+- [251211](251211) 医疗放射诊断技师 Medical Diagnostic Radiographer
+- [251212](251212) 医疗放射治疗师 Medical Radiation Therapist
+- [251213](251213) 核医学技师 Nuclear Medicine Technologist
+- [251214](251214) 超声波检验师 Sonographer
+- [251311](251311) 环境卫生官员 Environmental Health Officer
+- [251312](251312) 职业健康与安全顾问 Occupational Health and Safety Adviser
+- [251411](251411) 验光师 Optometrist
+- [251412](251412) 视觉矫正师 Orthoptist
+- [251511](251511) 医院药剂师 Hospital Pharmacist
+- [251512](251512) 工业药剂师 Industrial Pharmacist
+- [251513](251513) 零售药剂师 Retail Pharmacist
+- [251911](251911) 健康推广主任 Health Promotion Officer
+- [251912](251912) 义肢矫形师 Orthotist or Prosthetist
+- [251999](251999) 其他健康诊断和推广专业人士 Health Diagnostic and Promotion Professionals nec
+- [252111](252111) 脊医 Chiropractor
+- [252112](252112) 整骨师 Osteopath
+- [252211](252211) 针灸师 Acupuncturist
+- [252212](252212) 顺势疗法医师 Homoeopath
+- [252213](252213) 自然疗法医师 Naturopath
+- [252214](252214) 中国传统中医 Traditional Chinese Medicine Practitioner
+- [252215](252215) 毛利人传统保健医生 Traditional Maori Health Practitioner
+- [252299](252299) 补充的性健康治疗师 Complementary Health Therapists nec
+- [252311](252311) 牙科专家 Dental Specialist
+- [252312](252312) 牙科医生 Dentist
+- [252411](252411) 职业治疗师 Occupational Therapist
+- [252511](252511) 物理治疗师 Physiotherapist
+- [252611](252611) 足病诊疗师 Podiatrist
+- [252711](252711) 听力学家 Audiologist
+- [252712](252712) 语言病理学家 Speech Language Therapist
+- [253111](253111) 全科医生 General Medical Practitioner
+- [253112](253112) 驻院医务人员 Resident Medical Officer
+- [253211](253211) 麻醉师 Anaesthetist
+- [253311](253311) 专科医师（全科医学） Specialist Physician (General Medicine)
+- [253312](253312) 心脏病专家 Cardiologist
+- [253313](253313) 临床血液病医生 Clinical Haematologist
+- [253314](253314) 医疗肿瘤学家 Medical Oncologist
+- [253315](253315) 内分泌学家 Endocrinologist
+- [253316](253316) 胃肠病医生 Gastroenterologist
+- [253317](253317) 重症监护专家 Intensive Care Specialist
+- [253318](253318) 神经学家 Neurologist
+- [253321](253321) 儿科医生 Paediatrician
+- [253322](253322) 肾内科专家 Renal Medicine Specialist
+- [253323](253323) 风湿病专家 Rheumatologist
+- [253324](253324) 胸科医学专家 Thoracic Medicine Specialist
+- [253399](253399) 专家医师NEC的 Specialist Physicians nec
+- [253411](253411) 精神科医生 Psychiatrist
+- [253511](253511) 外科医生（普通） Surgeon (General)
+- [253512](253512) 心胸外科医生 Cardiothoracic Surgeon
+- [253513](253513) 神经外科专家 Neurosurgeon
+- [253514](253514) 矫形外科医生 Orthopaedic Surgeon
+- [253515](253515) 耳鼻喉科专家 Otorhinolaryngologist
+- [253516](253516) 儿科医生 Paediatric Surgeon
+- [253517](253517) 整形外科医生 Plastic and Reconstructive Surgeon
+- [253518](253518) 泌尿科医师 Urologist
+- [253521](253521) 血管外科医生 Vascular Surgeon
+- [253911](253911) 皮肤科医生 Dermatologist
+- [253912](253912) 急诊医学专家 Emergency Medicine Specialist
+- [253913](253913) 产科医生和妇科医生 Obstetrician and Gynaecologist
+- [253914](253914) 眼科医生 Ophthalmologist
+- [253915](253915) 病理学家 Pathologist
+- [253917](253917) 诊断和介入放射科专家 Diagnostic and Interventional Radiologist
+- [253918](253918) 放射肿瘤科专家 Radiation Oncologist
+- [253999](253999) 其他医疗执业人员 Medical Practitioners nec
+- [254111](254111) 助产士 Midwife
+- [254211](254211) 护士教育家 Nurse Educator
+- [254212](254212) 护士研究员 Nurse Researcher
+- [254311](254311) 护士长 Nurse Manager
+- [254411](254411) 执业护师 Nurse Practitioner
+- [254412](254412) 注册护士（老年护理） Registered Nurse (Aged Care)
+- [254413](254413) 注册护士（儿童和家庭健康） Registered Nurse (Child and Family Health)
+- [254414](254414) 注册护士（社区卫生服务） Registered Nurse (Community Health)
+- [254415](254415) 注册护士（重症监护和紧急） Registered Nurse (Critical Care and Emergency)
+- [254416](254416) 注册护士（发展迟缓） Registered Nurse (Developmental Disability)
+- [254417](254417) 注册护士（残疾和康复） Registered Nurse (Disability and Rehabilitation)
+- [254418](254418) 注册护士（医学） Registered Nurse (Medical)
+- [254421](254421) 注册护士（医疗实践） Registered Nurse (Medical Practice)
+- [254422](254422) 注册护士（心理健康） Registered Nurse (Mental Health)
+- [254423](254423) 注册护士（围手术期） Registered Nurse (Perioperative)
+- [254424](254424) 注册护士（手术） Registered Nurse (Surgical)
+- [254499](254499) 其他注册护士 Registered Nurses nec
+- [261111](261111) ICT业务分析师 ICT Business Analyst
+- [261112](261112) 系统分析员 Systems Analyst
+- [261211](261211) 多媒体专家 Multimedia Specialist
+- [261212](261212) 网页开发工程师 Web Developer
+- [261311](261311) 分析程序员 Analyst Programmer
+- [261312](261312) 开发程序员 Developer Programmer
+- [261313](261313) 软件工程师 Software Engineer
+- [261314](261314) 软件测试员 Software Tester
+- [261399](261399) 其他软件和应用程序员 Software and Applications Programmers nec
+- [262111](262111) 数据库管理员 Database Administrator
+- [262112](262112) 信息和通信技术安全专家 ICT Security Specialist
+- [262113](262113) 系统管理员 Systems Administrator
+- [263111](263111) 计算机网络和系统工程师 Computer Network and Systems Engineer
+- [263112](263112) 网络管理员 Network Administrator
+- [263113](263113) 网络分析师 Network Analyst
+- [263211](263211) 信息和通信技术质量保证工程师 ICT Quality Assurance Engineer
+- [263212](263212) 信息和通信技术支持工程师 ICT Support Engineer
+- [263213](263213) 信息和通信技术系统测试工程师 ICT Systems Test Engineer
+- [263299](263299) 信息和通信技术支持和测试工程师NEC ICT Support and Test Engineers nec
+- [263311](263311) 电信工程师 Telecommunications Engineer
+- [263312](263312) 电信网络工程师 Telecommunications Network Engineer
+- [271111](271111) 律师 Barrister
+- [271211](271211) 法官 Judge
+- [271212](271212) 地方法官 Magistrate
+- [271213](271213) 法庭成员 Tribunal Member
+- [271299](271299) 司法和其他法律专业人员 Judicial and Other Legal Professionals nec
+- [271311](271311) 律师 Solicitor
+- [272111](272111) 职业顾问 Careers Counsellor
+- [272112](272112) 药物和酒精顾问 Drug and Alcohol Counsellor
+- [272113](272113) 家庭和婚姻顾问 Family and Marriage Counsellor
+- [272114](272114) 康复顾问 Rehabilitation Counsellor
+- [272115](272115) 学生辅导 Student Counsellor
+- [272199](272199) 其他未分类辅导员 Counsellors nec
+- [272211](272211) 传教士 Minister of Religion
+- [272311](272311) 临床心理学家 Clinical Psychologist
+- [272312](272312) 教育心理学家 Educational Psychologist
+- [272313](272313) 组织心理学家 Organisational Psychologist
+- [272314](272314) 心理治疗师 Psychotherapist
+- [272399](272399) 其他未分类心理学家 Psychologists nec
+- [272411](272411) 历史学家 Historian
+- [272412](272412) 口译 Interpreter
+- [272413](272413) 笔译 Translator
+- [272499](272499) 社会专业人员 Social Professionals nec
+- [272511](272511) 社工 Social Worker
+- [272611](272611) 社区艺术工作者 Community Arts Worker
+- [272612](272612) 娱乐协调官 Recreation Coordinator
+- [272613](272613) 福利工作者 Welfare Worker
+- [311111](311111) 农业技术员 Agricultural Technician
+- [311211](311211) 麻醉技术员 Anaesthetic Technician
+- [311212](311212) 心脏技术员 Cardiac Technician
+- [311213](311213) 医学实验室技术员 Medical Laboratory Technician
+- [311214](311214) 手术室技术员 Operating Theatre Technician
+- [311215](311215) 药房技术员 Pharmacy Technician
+- [311299](311299) 其他医疗技师 Medical Technicians nec
+- [311311](311311) 渔业主任 Fisheries Officer
+- [311312](311312) 肉类检查员 Meat Inspector
+- [311313](311313) 检疫官员 Quarantine Officer
+- [311399](311399) 其他初级产品检查员 Primary Products Inspectors nec
+- [311411](311411) 化学技术员 Chemistry Technician
+- [311412](311412) 地球科学技术员 Earth Science Technician
+- [311413](311413) 生命科学技术员 Life Science Technician
+- [311414](311414) 学校实验室技术员 School Laboratory Technician
+- [311499](311499) 其他科学技术员 Science Technicians nec
+- [312111](312111) 建筑绘图员 Architectural Draftsperson
+- [312112](312112) 建筑助理 Building Associate
+- [312113](312113) 建筑检查员 Building Inspector
+- [312114](312114) 建筑估算员 Construction Estimator
+- [312115](312115) 管道检查员 Plumbing Inspector
+- [312116](312116) 测量或空间科学技术员 Surveying or Spatial Science Technician
+- [312199](312199) 建筑，建造及测量技术员NEC Architectural, Building and Surveying Technicians nec
+- [312211](312211) 土木工程绘图员 Civil Engineering Draftsperson
+- [312212](312212) 土木工程技术员 Civil Engineering Technician
+- [312311](312311) 电气工程绘图员 Electrical Engineering Draftsperson
+- [312312](312312) 电气工程技术员 Electrical Engineering Technician
+- [312411](312411) 电子工程绘图员 Electronic Engineering Draftsperson
+- [312412](312412) 电子工程技术员 Electronic Engineering Technician
+- [312511](312511) 机械工程绘图员 Mechanical Engineering Draftsperson
+- [312512](312512) 机械工程技术员 Mechanical Engineering Technician
+- [312611](312611) 安全检查员 Safety Inspector
+- [312911](312911) 维修计划员 Maintenance Planner
+- [312912](312912) 冶金或材料技术员 Metallurgical or Materials Technician
+- [312913](312913) 矿副 Mine Deputy
+- [312999](312999) 建筑及工程技术员NEC Building and Engineering Technicians nec
+- [313111](313111) 硬件技术员 Hardware Technician
+- [313112](313112) 信息通信技术客户支持 ICT Customer Support Officer
+- [313113](313113) 网站管理员 Web Administrator
+- [313199](313199) 信息和通信技术支持技术员NEC ICT Support Technicians nec
+- [313211](313211) 无线电通信技术员 Radio Communications Technician
+- [313212](313212) 电信领域工程师 Telecommunications Field Engineer
+- [313213](313213) 电信网络规划师 Telecommunications Network Planner
+- [313214](313214) 电信技术人员或技师 Telecommunications Technical Officer or Technologist
+- [351311](351311) 主厨*** Chef
+- [399311](399311) 画廊或博物馆技术员 Gallery or Museum Technician
+- [399312](399312) 图书馆技术员 Library Technician
+- [399912](399912) 室内装潢师 Interior Decorator
+- [411111](411111) 救护主任 Ambulance Officer
+- [411112](411112) 救护车医务人员 Ambulance Paramedic
+- [411211](411211) 牙齿卫生员 Dental Hygienist
+- [411212](411212) 牙科修复学家 Dental Prosthetist
+- [411213](411213) 牙科技师 Dental Technician
+- [411214](411214) 牙科治疗师 Dental Therapist
+- [411411](411411) 在编护士 Enrolled Nurse
+- [411412](411412) 育儿护士 Mothercraft Nurse
+- [411511](411511) 土著居民和托雷斯海峡岛民保健员 Aboriginal and Torres Strait Islander Health Worker
+- [411512](411512) 毛利人健康助理 Kaiawhina (Hauora) (Maori Health Assistant)
+- [411611](411611) 按摩治疗师 Massage Therapist
+- [411711](411711) 社工 Community Worker
+- [411712](411712) 残疾人服务主任 Disabilities Services Officer
+- [411713](411713) 家庭工作者 Family Support Worker
+- [411714](411714) 假释或缓刑主任 Parole or Probation Officer
+- [411715](411715) 安老院主任 Residential Care Officer
+- [411716](411716) 青年工作者 Youth Worker
+- [441311](441311) 侦探 Detective
+- [441312](441312) 警官 Police Officer
+- [451311](451311) 殡仪负责人 Funeral Director
+- [452321](452321) 体育发展主任 Sports Development Officer
+- [511111](511111) 合同管理员 Contract Administrator
+- [511112](511112) 计划或项目管理员 Program or Project Administrator
+- [512111](512111) 办公室经理 Office Manager
+- [512211](512211) 健康实践经理 Health Practice Manager
+- [512299](512299) 其他未分类实践经理 Practice Managers nec
+- [599111](599111) 财产转让员 Conveyancer
+- [599112](599112) 法律行政 Legal Executive
+- [612113](612113) 地产代理持牌人 Real Estate Agency Licensee
