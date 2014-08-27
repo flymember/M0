@@ -15,3 +15,5 @@ FLYabroad 会员系统 M0
 加拿大NOC职业列表： https://github.com/flymember/M0/wiki/NOC
 
 澳大利亚新西兰技术移民职业： https://github.com/flymember/M0/wiki/SOL
+
+会员系统内容由[飞出国（FLYabroad @Copyright)](http://www.flyabroadvisa.com/)独家整理完成，请尊重知识产权，不要以任何形式散布和传播。
